@@ -1,0 +1,17 @@
+7/1/2024 1:17:11 PM: User John Doe logged in at 7/1/2024 1:17:11 PM
+7/1/2024 3:36:36 PM: User John Doe logged in at 7/1/2024 3:36:36 PM
+7/1/2024 5:02:39 PM: User John Doe logged in at 7/1/2024 5:02:39 PM
+7/1/2024 5:04:00 PM: User John Doe logged in at 7/1/2024 5:04:00 PM
+7/1/2024 5:18:58 PM: User Acme Corporation logged in at 7/1/2024 5:18:58 PM
+7/1/2024 5:46:21 PM: User admin logged in at 7/1/2024 5:46:21 PM
+7/1/2024 5:53:14 PM: User Globex Corporation logged in at 7/1/2024 5:53:14 PM
+7/1/2024 6:00:54 PM: User Jane Smith logged in at 7/1/2024 6:00:54 PM
+7/1/2024 6:04:29 PM: User Jane Smith logged in at 7/1/2024 6:04:29 PM
+7/1/2024 6:11:07 PM: User John Doe logged in at 7/1/2024 6:11:07 PM
+7/1/2024 6:26:07 PM: User John Doe logged in at 7/1/2024 6:26:07 PM
+7/1/2024 6:26:41 PM: User John Doe logged in at 7/1/2024 6:26:41 PM
+7/1/2024 6:29:38 PM: User John Doe logged in at 7/1/2024 6:29:38 PM
+7/1/2024 6:38:40 PM: User Globex Corporation logged in at 7/1/2024 6:38:40 PM
+7/1/2024 6:50:14 PM: User admin logged in at 7/1/2024 6:50:14 PM
+7/1/2024 6:51:11 PM: User Acme Corporation logged in at 7/1/2024 6:51:11 PM
+7/1/2024 6:55:43 PM: User John Doe logged in at 7/1/2024 6:55:43 PM
